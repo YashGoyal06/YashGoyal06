@@ -244,6 +244,11 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 **Full-Stack Web Application**
 
 <a href="https://github.com/YashGoyal06/Blaze">
+  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="Blaze Project Screenshot" />
+</a>
+<br/>
+
+<a href="https://github.com/YashGoyal06/Blaze">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Blaze&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
 
@@ -258,6 +263,11 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 
 ### SnapSkin
 **AI-Powered Skin Analysis**
+
+<a href="https://github.com/YashGoyal06/SNAPSKIN">
+  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="SnapSkin Project Screenshot" />
+</a>
+<br/>
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Snapskin&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
@@ -278,6 +288,11 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 **Respiratory Health Monitoring**
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
+  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="RespireX Project Screenshot" />
+</a>
+<br/>
+
+<a href="https://github.com/YashGoyal06/RespireX-main">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=RespireX&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
 
@@ -290,22 +305,11 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 </td>
 <td width="50%">
 
-### More Projects
-
-<br>
-
-Explore my complete portfolio of **20+ projects** spanning web development, AI/ML solutions, and cloud-native applications.
-
-<br><br>
-
-<a href="https://github.com/YashGoyal06?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Projects-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </td>
 </tr>
 </table>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
 
