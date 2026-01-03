@@ -363,34 +363,8 @@ Explore my complete portfolio of **20+ projects** spanning web development, AI/M
 
 <br/>
 
-### 📬 Reach Out to Me
-
-<p>
-  <a href="https://www.linkedin.com/in/yashgoyal06/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:codewithyash124@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <br/>
 
-### ⚡ Fun Facts About Me
-
-
-```
-
-🎮 When I'm not coding, I'm probably gaming or exploring new tech
-🌍 Love traveling and experiencing different cultures
-📚 Avid reader of sci-fi and tech blogs
-🎵 Coding soundtrack: Lo-fi beats & Electronic music
-☕ Coffee enthusiast - Powered by caffeine and curiosity
-🌙 Night owl - Best code is written after midnight
-
-```
-
-<br/>
 
 ### 📊 Profile Summary
 
