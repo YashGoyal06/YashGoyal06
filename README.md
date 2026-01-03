@@ -233,7 +233,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -243,7 +243,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 
 <div align="center">
 
-### 🤖 Blaze
+### Blaze
 **AI Assistant GUI Software**
 
 <a href="https://github.com/YashGoyal06/Blaze">
@@ -257,9 +257,9 @@ Tech: Python | AI | GUI
 ```
 
 **Features:**
-- 🎯 Intelligent Voice Assistant
-- 🖥️ Interactive GUI Interface
-- ⚡ Real-time Processing
+- Intelligent Voice Assistant
+- Interactive GUI Interface
+- Real-time Processing
 
 <br/>
 
@@ -276,7 +276,7 @@ Tech: Python | AI | GUI
 
 <div align="center">
 
-### 🔬 SnapSkin
+### SnapSkin
 **AI Skin Analysis Platform**
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
@@ -290,9 +290,9 @@ Tech: TensorFlow | OpenCV | Flask
 ```
 
 **Features:**
-- 📸 Advanced Image Processing
-- 🧠 Deep Learning Analysis
-- 📊 Detailed Health Reports
+- Advanced Image Processing
+- Deep Learning Analysis
+- Detailed Health Reports
 
 <br/>
 
@@ -309,8 +309,8 @@ Tech: TensorFlow | OpenCV | Flask
 
 <div align="center">
 
-### 🫁 RespireX
-**Respiratory Health Monitor**
+### RespireX
+**Tuberculosis Analysis**
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
   <img src="./public/screenshots/RespireX.png" width="100%" alt="RespireX" style="border-radius: 10px;"/>
@@ -323,9 +323,9 @@ Tech: Keras | ML | Flask
 ```
 
 **Features:**
-- 💊 Disease Prediction Model
-- 📈 Health Trend Analysis
-- 🏥 Clinical-grade Accuracy
+- Disease Prediction Model
+- Health Trend Analysis
+- Clinical-grade Accuracy
 
 <br/>
 
