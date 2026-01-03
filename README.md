@@ -244,7 +244,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 **Full-Stack Web App**
 
 <a href="https://github.com/YashGoyal06/Blaze">
-  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="Blaze Screenshot" />
+  <img src="public/screenshots/Blaze.png" width="100%" alt="Blaze Screenshot" />
 </a>
 <br/>
 
@@ -266,7 +266,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 **AI Skin Analysis**
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
-  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="SnapSkin Screenshot" />
+  <img src="public/screenshots/SnapSkin.png" width="100%" alt="SnapSkin Screenshot" />
 </a>
 <br/>
 
@@ -288,7 +288,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 **Resp. Health Monitor**
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
-  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="RespireX Screenshot" />
+  <img src="public/screenshots/RespireX.png" width="100%" alt="RespireX Screenshot" />
 </a>
 <br/>
 
