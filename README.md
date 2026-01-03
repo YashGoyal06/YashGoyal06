@@ -357,26 +357,23 @@ Explore my complete portfolio of **20+ projects** spanning web development, AI/M
 
 ## 💌 Let's Connect and Build Something Extraordinary!
 
-<br/>
-
-<table>
-  <tr>
-    <td width="30%" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%" alt="Coding GIF"/>
-    </td>
-    <td width="70%" valign="middle">
-      <br/>
-      <p align="justify">
-        <h3 style="margin-top: 0;">"Innovation distinguishes between a leader and a follower" - Steve Jobs</h3>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<br/>
-
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="left" width="180" alt="Coding GIF"/>
+
+<br/>
+<br/>
+
+<div align="justify">
+  <h3>"Innovation distinguishes between a leader and a follower" - Steve Jobs</h3>
+</div>
+
+<br clear="left"/>
+
+<br/>
+<br/>
 
 
 ### 📊 Profile Summary
