@@ -341,23 +341,6 @@ Explore my complete portfolio of **20+ projects** spanning web development, AI/M
 
 <div align="center">
 
-### Open for Opportunities
-
-Available for freelance projects, collaborations, and full-time positions
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br>
-
----
-
-**Yash Goyal** • Full Stack Developer & AI Engineer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
 ## 💭 Random Dev Quote
 
 <div align="center">
