@@ -246,7 +246,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 </a>
 <br/>
 
-<a href="https://github.com/YashGoyal06/Blaze">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Blaze&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
 </a>
 
@@ -268,7 +267,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 </a>
 <br/>
 
-<a href="https://github.com/YashGoyal06/SNAPSKIN">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Snapskin&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
 </a>
 
@@ -290,7 +288,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 </a>
 <br/>
 
-<a href="https://github.com/YashGoyal06/RespireX-main">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=RespireX&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
 </a>
 
