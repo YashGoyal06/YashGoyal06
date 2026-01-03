@@ -232,9 +232,11 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+
 ## Featured Projects
+
 <div align="center">
-<table border="0">
+<table>
 <tr>
 <td width="33%" valign="top">
 
