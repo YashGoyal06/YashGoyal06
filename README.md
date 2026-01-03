@@ -238,78 +238,74 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 ### Blaze
-**Full-Stack Web Application**
+**Full-Stack Web App**
 
 <a href="https://github.com/YashGoyal06/Blaze">
-  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="Blaze Project Screenshot" />
+  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="Blaze Screenshot" />
 </a>
 <br/>
 
 <a href="https://github.com/YashGoyal06/Blaze">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Blaze&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Blaze&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
 </a>
 
-**Tech Stack:** React, Node.js, MongoDB, Express.js
+**Tech:** React, Node.js, MongoDB
 
 <a href="https://github.com/YashGoyal06/Blaze">
-<img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%">
+
+<td width="33%" valign="top">
 
 ### SnapSkin
-**AI-Powered Skin Analysis**
+**AI Skin Analysis**
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
-  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="SnapSkin Project Screenshot" />
+  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="SnapSkin Screenshot" />
 </a>
 <br/>
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Snapskin&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Snapskin&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
 </a>
 
-**Tech Stack:** TensorFlow, OpenCV, Python, Flask
+**Tech:** TensorFlow, OpenCV, Flask
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
-<img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+
+<td width="33%" valign="top">
 
 ### RespireX
-**Respiratory Health Monitoring**
+**Resp. Health Monitor**
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
-  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="RespireX Project Screenshot" />
+  <img src="INSERT_IMAGE_LINK_HERE" width="100%" alt="RespireX Screenshot" />
 </a>
 <br/>
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=RespireX&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=RespireX&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
 </a>
 
-**Tech Stack:** Keras, Machine Learning, Flask
+**Tech:** Keras, ML, Flask
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
-<img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
 </table>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
 
