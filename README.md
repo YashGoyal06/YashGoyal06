@@ -259,13 +259,13 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 ### SnapSkin
 **AI-Powered Skin Analysis**
 
-<a href="https://github.com/YashGoyal06/Snapskin">
+<a href="https://github.com/YashGoyal06/SNAPSKIN">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=Snapskin&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
 
 **Tech Stack:** TensorFlow, OpenCV, Python, Flask
 
-<a href="https://github.com/YashGoyal06/Snapskin">
+<a href="https://github.com/YashGoyal06/SNAPSKIN">
 <img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -277,13 +277,13 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 ### RespireX
 **Respiratory Health Monitoring**
 
-<a href="https://github.com/YashGoyal06/RespireX">
+<a href="https://github.com/YashGoyal06/RespireX-main">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGoyal06&repo=RespireX&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
 
 **Tech Stack:** Keras, Machine Learning, Flask
 
-<a href="https://github.com/YashGoyal06/RespireX">
+<a href="https://github.com/YashGoyal06/RespireX-main">
 <img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
