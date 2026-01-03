@@ -237,14 +237,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 
 <div align="center">
 
-### 💎 Showcasing Innovation Through Code
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -252,37 +244,29 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 <div align="center">
 
 ### 🤖 Blaze
-**AI ASSISTANT GUI BASED SOFTWARE**
+**AI Assistant GUI Software**
 
 <a href="https://github.com/YashGoyal06/Blaze">
   <img src="./public/screenshots/Blaze.png" width="100%" alt="Blaze" style="border-radius: 10px;"/>
 </a>
 
 <br/>
-<br/>
 
-```yaml
-Category: Artificial Intelligence
-Tech Stack: Python, GUI Framework
-Status: ✅ Completed
+```python
+Tech: Python | AI | GUI
 ```
 
-<br/>
-
-**✨ Key Features:**
-- 🎯 Intelligent voice assistant
-- 🖥️ User-friendly GUI interface
-- ⚡ Real-time processing
-- 🔧 Customizable commands
+**Features:**
+- 🎯 Intelligent Voice Assistant
+- 🖥️ Interactive GUI Interface
+- ⚡ Real-time Processing
 
 <br/>
 
 <a href="https://github.com/YashGoyal06/Blaze">
-<img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Code-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/YashGoyal06/Blaze">
-<img src="https://img.shields.io/github/stars/YashGoyal06/Blaze?style=for-the-badge&color=00d9ff&labelColor=1a1b27"/>
-</a>
+<img src="https://img.shields.io/github/stars/YashGoyal06/Blaze?style=social"/>
 
 </div>
 
@@ -293,37 +277,29 @@ Status: ✅ Completed
 <div align="center">
 
 ### 🔬 SnapSkin
-**AI-POWERED SKIN ANALYSIS PLATFORM**
+**AI Skin Analysis Platform**
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
   <img src="./public/screenshots/SnapSkin.png" width="100%" alt="SnapSkin" style="border-radius: 10px;"/>
 </a>
 
 <br/>
-<br/>
 
-```yaml
-Category: Healthcare AI
-Tech Stack: TensorFlow, OpenCV, Flask
-Status: ✅ Completed
+```python
+Tech: TensorFlow | OpenCV | Flask
 ```
 
-<br/>
-
-**✨ Key Features:**
-- 📸 Advanced image processing
-- 🧠 Deep learning analysis
-- 📊 Detailed health reports
-- 🌐 Web-based interface
+**Features:**
+- 📸 Advanced Image Processing
+- 🧠 Deep Learning Analysis
+- 📊 Detailed Health Reports
 
 <br/>
 
 <a href="https://github.com/YashGoyal06/SNAPSKIN">
-<img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Code-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/YashGoyal06/SNAPSKIN">
-<img src="https://img.shields.io/github/stars/YashGoyal06/SNAPSKIN?style=for-the-badge&color=00d9ff&labelColor=1a1b27"/>
-</a>
+<img src="https://img.shields.io/github/stars/YashGoyal06/SNAPSKIN?style=social"/>
 
 </div>
 
@@ -334,86 +310,35 @@ Status: ✅ Completed
 <div align="center">
 
 ### 🫁 RespireX
-**RESPIRATORY HEALTH MONITOR**
+**Respiratory Health Monitor**
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
   <img src="./public/screenshots/RespireX.png" width="100%" alt="RespireX" style="border-radius: 10px;"/>
 </a>
 
 <br/>
-<br/>
 
-```yaml
-Category: Healthcare ML
-Tech Stack: Keras, Machine Learning, Flask
-Status: ✅ Completed
+```python
+Tech: Keras | ML | Flask
 ```
 
-<br/>
-
-**✨ Key Features:**
-- 💊 Disease prediction model
-- 📈 Health trend analysis
-- 🏥 Clinical-grade accuracy
-- 📱 Responsive design
+**Features:**
+- 💊 Disease Prediction Model
+- 📈 Health Trend Analysis
+- 🏥 Clinical-grade Accuracy
 
 <br/>
 
 <a href="https://github.com/YashGoyal06/RespireX-main">
-<img src="https://img.shields.io/badge/View_Repository-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Code-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/YashGoyal06/RespireX-main">
-<img src="https://img.shields.io/github/stars/YashGoyal06/RespireX-main?style=for-the-badge&color=00d9ff&labelColor=1a1b27"/>
-</a>
+<img src="https://img.shields.io/github/stars/YashGoyal06/RespireX-main?style=social"/>
 
 </div>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-### 🎯 Project Impact
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Total_Projects-50+-00d9ff?style=for-the-badge&labelColor=1a1b27"/>
-<br/>
-<sub><b>Projects Completed</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AI/ML_Models-15+-00d9ff?style=for-the-badge&labelColor=1a1b27"/>
-<br/>
-<sub><b>AI Models Deployed</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Tech_Stack-20+-00d9ff?style=for-the-badge&labelColor=1a1b27"/>
-<br/>
-<sub><b>Technologies Used</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open_Source-Active-00d9ff?style=for-the-badge&labelColor=1a1b27"/>
-<br/>
-<sub><b>Contribution Status</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔗 Explore More Projects
-
-<a href="https://github.com/YashGoyal06?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
-</a>
 
 </div>
 
