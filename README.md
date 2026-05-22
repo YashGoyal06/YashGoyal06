@@ -1,438 +1,94 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Goyal&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Architecting+scalable+solutions+with+modern+tech;Specializing+in+AI%2C+Web+Development+%26+Cloud;Transforming+ideas+into+production-ready+applications" alt="Typing Animation" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YashGoyal06&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YashGoyal06)
-[![GitHub followers](https://img.shields.io/github/followers/YashGoyal06?style=for-the-badge&color=00d9ff&labelColor=1a1b27)](https://github.com/YashGoyal06)
-[![GitHub Stars](https://img.shields.io/github/stars/YashGoyal06?style=for-the-badge&color=00d9ff&labelColor=1a1b27)](https://github.com/YashGoyal06)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-**Full Stack MERN Developer** specializing in **Artificial Intelligence** and **Machine Learning**
-
-Currently pursuing **B.Tech in Computer Science Engineering** with hands-on experience in deploying real-world applications. I focus on creating scalable, efficient solutions that solve genuine problems.
-
-**What I Do:**
-- Build full-stack web applications with modern frameworks
-- Develop AI/ML models for practical applications
-- Design and implement cloud-native architectures
-- Contribute to open-source projects and hackathons
-
-**Current Focus:**
-- Advanced Machine Learning Models
-- Large Language Model Integration
-- Microservices Architecture
-- Real-time Data Processing
-
-**Approach:**
-- Clean, maintainable code following industry best practices
-- Test-driven development and CI/CD workflows
-- Performance optimization and scalability
-- User-centric design and development
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
-
-## Technical Skills
-
-<details open>
-<summary><b>Programming Languages</b></summary>
-<br>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-</tr>
-</table>
-</div>
-</details>
-
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
-<br>Redux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind CSS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br>Vite
-</td>
-</tr>
-</table>
-</div>
-</details>
-
-<details open>
-<summary><b>Backend & Databases</b></summary>
-<br>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express.js
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" />
-<br>Django
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-</tr>
-</table>
-</div>
-</details>
-
-<details open>
-<summary><b>AI/ML & Data Science</b></summary>
-<br>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-<br>PyTorch
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-<br>OpenCV
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
-<br>Scikit-learn
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="48" height="48" alt="NumPy" />
-<br>NumPy
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="48" height="48" alt="Pandas" />
-<br>Pandas
-</td>
-</tr>
-</table>
-</div>
-</details>
-
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br>Vercel
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-<br>Netlify
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-</tr>
-</table>
-</div>
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yashgoyal06/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:codewithyash124@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/YashGoyal06">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
-
-## Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### Blaze
-**AI Assistant GUI Software**
-
-<a href="https://github.com/YashGoyal06/Blaze">
-  <img src="./public/screenshots/Blaze.png" width="100%" alt="Blaze" style="border-radius: 10px;"/>
-</a>
-
-<br/>
-
-```python
-Tech: Python | AI | GUI
+```
+██╗   ██╗ █████╗ ███████╗██╗  ██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║
+ ╚████╔╝ ███████║███████╗███████║
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║
+   ██║   ██║  ██║███████║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+         G  O  Y  A  L
 ```
 
-**Features:**
-- Intelligent Voice Assistant
-- Interactive GUI Interface
-- Real-time Processing
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%2B+AI+Engineer;MERN+%7C+Python+%7C+ML+%7C+Cloud;Building+things+that+actually+ship.)](https://github.com/YashGoyal06)
 
-<br/>
-
-<a href="https://github.com/YashGoyal06/Blaze">
-<img src="https://img.shields.io/badge/View_Code-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/YashGoyal06/Blaze?style=social"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-goyal-786723333/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:codewithyash124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/YashGoyal06)
+[![Profile Views](https://komarev.com/ghpvc/?username=YashGoyal06&style=flat-square&color=64FFDA&label=views)](https://github.com/YashGoyal06)
 
 </div>
 
-</td>
+---
 
-<td width="33%" valign="top">
+## `whoami`
+
+B.Tech CSE student building production-ready software at the intersection of **AI/ML** and **Full Stack Web Development**. I care about writing clean code, shipping real products, and not over-engineering things.
+
+- Currently working on **LLM integrations** and **microservices**
+- Reach me at `codewithyash124@gmail.com`
+- Open to: collaborations, freelance, and interesting problems
+
+---
+
+## 🗂 Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [**Crevix Studio**](https://github.com/YashGoyal06/Crevix-Studio) | React · Vite · Supabase · Django · Razorpay | Full-stack e-commerce platform — Google OAuth, scoped carts, live payment processing |
+| [**SnapSkin**](https://github.com/YashGoyal06/SNAPSKIN) | TensorFlow · OpenCV · Flask | AI-powered skin condition analysis from images with health reports |
+| [**RespireX**](https://github.com/YashGoyal06/RespireX-main) | Keras · Flask · ML | Chest X-ray based tuberculosis detection with clinical-grade model accuracy |
+| [**Blaze**](https://github.com/YashGoyal06/Blaze) | Python · AI | Intelligent voice assistant with real-time GUI |
+| [**GestureGuessing**](https://github.com/YashGoyal06/GESTUREGUESSING) | Python · OpenCV · MediaPipe | Hand gesture recognition using computer vision |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+`C++` `Python` `JavaScript` `TypeScript` `HTML5` `CSS3`
+
+**Frontend**
+`React` `Redux` `Tailwind CSS` `Vite` `Bootstrap`
+
+**Backend & Databases**
+`Node.js` `Express.js` `Django` `Flask` `MongoDB` `PostgreSQL`
+
+**AI / ML**
+`TensorFlow` `PyTorch` `Keras` `OpenCV` `Scikit-learn` `NumPy` `Pandas`
+
+**Tools & Cloud**
+`Docker` `Git` `Supabase` `Vercel` `Netlify` `VS Code`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### SnapSkin
-**AI Skin Analysis Platform**
-
-<a href="https://github.com/YashGoyal06/SNAPSKIN">
-  <img src="./public/screenshots/SnapSkin.png" width="100%" alt="SnapSkin" style="border-radius: 10px;"/>
-</a>
-
-<br/>
-
-```python
-Tech: TensorFlow | OpenCV | Flask
-```
-
-**Features:**
-- Advanced Image Processing
-- Deep Learning Analysis
-- Detailed Health Reports
-
-<br/>
-
-<a href="https://github.com/YashGoyal06/SNAPSKIN">
-<img src="https://img.shields.io/badge/View_Code-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/YashGoyal06/SNAPSKIN?style=social"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YashGoyal06&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=8b949e&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGoyal06&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=8b949e&langs_count=6" />
 
 </div>
-
-</td>
-
-<td width="33%" valign="top">
 
 <div align="center">
 
-### RespireX
-**Tuberculosis Analysis**
-
-<a href="https://github.com/YashGoyal06/RespireX-main">
-  <img src="./public/screenshots/RespireX.png" width="100%" alt="RespireX" style="border-radius: 10px;"/>
-</a>
-
-<br/>
-
-```python
-Tech: Keras | ML | Flask
-```
-
-**Features:**
-- Disease Prediction Model
-- Health Trend Analysis
-- Clinical-grade Accuracy
-
-<br/>
-
-<a href="https://github.com/YashGoyal06/RespireX-main">
-<img src="https://img.shields.io/badge/View_Code-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/YashGoyal06/RespireX-main?style=social"/>
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=YashGoyal06&theme=dark&hide_border=true&background=0d1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
-
-## GitHub Statistics
+---
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashGoyal06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashGoyal06&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGoyal06&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashGoyal06&custom_title=Contribution%20Graph&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=true&height=300" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YashGoyal06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashGoyal06/YashGoyal06/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashGoyal06/YashGoyal06/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/YashGoyal06/YashGoyal06/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YashGoyal06/YashGoyal06/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+<br/>
 
-<div align="center">
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*Open for collabs · Always learning · Ships real things*
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
-
-<div align="center">
-
-<div align="center">
-
-## 💌 Let's Connect and Build Something Extraordinary!
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="left" width="180" alt="Coding GIF"/>
-
-<br/>
-<br/>
-
-<div align="justify">
-  <h3>"Innovation distinguishes between a leader and a follower" - Steve Jobs</h3>
-</div>
-
-<br clear="left"/>
-
-<br/>
-<br/>
-
-
-### 📊 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashGoyal06&theme=tokyonight" width="100%"/>
-
-<br/>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br/>
-
-**✨ Crafted with 💙 by [Yash Goyal](https://github.com/YashGoyal06)**
-
-<br/>
-
-**💡 Open for collaborations | Available for freelance | Always learning**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
-
-```
